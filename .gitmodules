@@ -12,4 +12,4 @@
 	branch = 11.0
 [submodule "neuronsinc"]
 	path = neuronsinc
-	url = https://github.com/rocketgithub/neuronsinc.git
+	url = git@github.com:rocketgithub/neuronsinc.git
